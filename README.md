@@ -2,6 +2,8 @@
 
 ## Steps to Run the project:
 
-Anaconda Terminal
+''' Anaconda Terminal
 conda create -n mchatbot python=3.8 -y
 
+''' Bash
+ pip install -r requirements.txt
